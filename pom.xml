@@ -13,6 +13,7 @@
 
     <modules>
         <module>releng/io.github.jokoala.tycho.configuration</module>
+        <module>bundles</module>
     </modules>
 </project> 
 
