@@ -14,6 +14,7 @@
     <modules>
         <module>releng/io.github.jokoala.tycho.configuration</module>
         <module>bundles</module>
+        <module>features</module>
     </modules>
 </project> 
 
