@@ -1,7 +1,7 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.jokoala.tycho</groupId>
-    <artifactId>io.github.jokoala.tycho.bundles</artifactId>
+    <artifactId>io.github.jokoala.tycho.releng</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     
@@ -12,7 +12,7 @@
     </parent>
 
     <modules>
-        <module>io.github.jokoala.tycho.plugin1</module>
-        <module>io.github.jokoala.tycho.rcp</module>
+        <!-- <module>io.github.jokoala.tycho.update</module> -->
+        <module>io.github.jokoala.tycho.product</module>
     </modules>
 </project> 
