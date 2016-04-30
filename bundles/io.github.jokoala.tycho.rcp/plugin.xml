@@ -12,6 +12,10 @@
                name="applicationCSS"
                value="platform:/plugin/io.github.jokoala.tycho.rcp/css/default.css">
          </property>
+         <property
+               name="appName"
+               value="io.github.jokoala.tycho.rcp">
+         </property>
       </product>
    </extension>
 

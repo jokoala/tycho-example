@@ -14,5 +14,6 @@
     <modules>
         <!-- <module>io.github.jokoala.tycho.update</module> -->
         <module>io.github.jokoala.tycho.product</module>
+        <module>io.github.jokoala.tycho.targetdefinition</module>
     </modules>
 </project> 

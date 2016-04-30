@@ -4,4 +4,4 @@ Bundle-Name: Plugin1
 Bundle-SymbolicName: io.github.jokoala.tycho.plugin1;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Require-Bundle: org.eclipse.ui
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
